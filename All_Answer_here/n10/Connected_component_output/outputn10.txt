@@ -1,0 +1,8 @@
+Following are connected components 
+
+
+0 9 1 6 3 7 5 8 2 4 
+
+
+Compute the Number of connected component is : 1
+

@@ -1,0 +1,6 @@
+Following are Strongly Connected  components 
+
+0 1 2 4 3 6 5 8 9 7 
+
+Compute the Number of Strongly Connected component is :  1
+
